@@ -5,3 +5,6 @@ crud de um projeto de livraria em mvc com OOP
 do composer.
 
 Projeto em andamento. 
+
+
+24/02/2023 - criado o composer.json, o core da aplicação com a classe de rotas. criado as pastas de controller, view e model. 
