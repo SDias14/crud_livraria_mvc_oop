@@ -1,0 +1,14 @@
+{
+    "description": "Projeto Pessoal Livraria PHP OO", 
+    "authors": [{
+        "name": "Samuel Dias", 
+        "email": "samueld2014@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Sts\\":"App/sts",
+            "Core\\":"core"
+        }
+    }, 
+    "require": {}
+}
